@@ -1,2 +1,2 @@
-# assignment-1
+# assignment
 https://sumianova.github.io/assignment-1/

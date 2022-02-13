@@ -39,6 +39,7 @@ div{
 .fourth{
     background-color: rgb(149, 195, 248);
     margin: 30px;
+    padding: 30px;
 }
 .fourth:hover{
     font-weight:bolder;
@@ -49,8 +50,10 @@ div{
 .fifth{
     background-color: rgb(236, 200, 37);
     margin: 30px;
+    padding: 30px;
 }
 .sixth{
     background-color: rgba(49, 197, 36, 0.952);
     margin: 30px;
+    padding: 30px;
 }
